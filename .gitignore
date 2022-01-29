@@ -1,3 +1,6 @@
+# Avoid indexing config
+.idea/
+config.json
 # Logs
 logs
 *.log

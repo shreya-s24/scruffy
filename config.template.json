@@ -1,0 +1,9 @@
+{
+  "token": "your-token-here-please",
+  "filterList": [
+    "can you help me",
+    "i am in an exam right now",
+    "does anyone know about",
+    "does someone know about"
+  ]
+}

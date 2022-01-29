@@ -1,0 +1,19 @@
+{
+  "name": "scruffy",
+  "version": "1.0.0",
+  "description": "Cleans up discord channels in no time",
+  "main": "src/bot.js",
+  "scripts": {
+    "test": "nodemon src/bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KrautByte/scruffy.git"
+  },
+  "author": "KrautByte",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/KrautByte/scruffy/issues"
+  },
+  "homepage": "https://github.com/KrautByte/scruffy#readme"
+}
