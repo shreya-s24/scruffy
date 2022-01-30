@@ -15,10 +15,7 @@ client.on('ready', c => {
 });
 
 client.on('messageCreate', (message) => {
-    if(message.content.includes("!d") || message.content.includes("!data")) message.channel.send(res)
-    for (let i = 0; i < filterList.length; i++) {
-        if(filterList[i].includes(message.content.toLowerCase())) message.channel.send(res)
-    }
+    if(message.content.includes(".d") || message.content.includes(".data")) message.channel.send(res)
 });
 
 client.login(token);
